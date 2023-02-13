@@ -1,0 +1,84 @@
+body{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+.container{
+    width: 500px;
+    display: flex;
+
+}
+.first{
+    font-size: 60px;
+    color: whitesmoke;
+}
+.second{
+    font-size: 30px;
+    color: whitesmoke;
+    padding-left: 300px;
+    font-family: georgia;
+}
+.third{
+    font-size: 40px;
+    color: whitesmoke;
+    background-color: grey;
+    width: 1000px;
+}
+.fourth{
+    font-size: 20px;
+    color: whitesmoke;
+    font-family: georgia;
+}
+pre{
+    font-family: georgia;
+    color: whitesmoke;
+}
+.fifth{
+    font-size: 30px;
+}
+.ex1{
+    width: 400px;
+    background-color: #6a6167;
+    background-position: 20px;
+    padding-left: 20px;
+}
+.ex2{
+    background-color: #6a6167;
+    width: 500px;
+    background-position: 20px;
+    padding-left: 20px;
+}
+.ex3{
+    background-color: #6a6167;
+    width: 300px;
+    background-position: 20px;
+    padding-left: 20px;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 2px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+.fa-envelope{
+    color: white;
+    font-size: 60px;
+}
+.fa-instagram {
+    background: #125688;
+    color: white;
+  }
+p{
+    font-size: 30px;
+}
